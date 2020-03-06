@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DD309A00240AE4D800CC65D5 /* CreationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD3099FF240AE4D800CC65D5 /* CreationViewController.swift */; };
 		DDF1A4AC23F87820002D830D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDF1A4AB23F87820002D830D /* AppDelegate.swift */; };
 		DDF1A4AE23F87820002D830D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDF1A4AD23F87820002D830D /* SceneDelegate.swift */; };
 		DDF1A4B023F87820002D830D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDF1A4AF23F87820002D830D /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		DD3099FF240AE4D800CC65D5 /* CreationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreationViewController.swift; sourceTree = "<group>"; };
 		DDF1A4A823F87820002D830D /* Flashcard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Flashcard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DDF1A4AB23F87820002D830D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DDF1A4AD23F87820002D830D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 		DDF1A49F23F87820002D830D = {
 			isa = PBXGroup;
 			children = (
+				DD3099FF240AE4D800CC65D5 /* CreationViewController.swift */,
 				DDF1A4AA23F87820002D830D /* Flashcard */,
 				DDF1A4C123F87822002D830D /* FlashcardTests */,
 				DDF1A4CC23F87822002D830D /* FlashcardUITests */,
@@ -262,6 +265,7 @@
 				DDF1A4B023F87820002D830D /* ViewController.swift in Sources */,
 				DDF1A4AC23F87820002D830D /* AppDelegate.swift in Sources */,
 				DDF1A4AE23F87820002D830D /* SceneDelegate.swift in Sources */,
+				DD309A00240AE4D800CC65D5 /* CreationViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
